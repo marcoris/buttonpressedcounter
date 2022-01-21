@@ -1,0 +1,4 @@
+ButtonPressedCounter	KEYWORD1
+setCounterOnPress	KEYWORD2
+getCounter	KEYWORD2
+resetCounter	KEYWORD2
